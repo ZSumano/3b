@@ -1,7 +1,7 @@
  body {
-    background-color:gray;
+    background-color:white ;
  }
- h1{ 
-   font-style:oblique;
-
- }
+ h1 { 
+    background-color:blue;
+    font-style:oblique;
+} 
