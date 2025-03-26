@@ -5,6 +5,7 @@
    
  h1 { 
    font-size: 3rem;
+   text-align: center;
 } 
 
 h2 {
@@ -14,8 +15,13 @@ h2 {
 p {  
    font-size: 1.5rem;
 }
-   
+
 img {
    width: 750px; 
    height: auto;
+}
+
+.toque { 
+   text-align: center;
+
 }
