@@ -1,0 +1,12 @@
+ body {
+    background-color:white;
+    font-family: arial;
+ }
+
+  h1 { 
+   font-size: 3rem;
+   text-align: center;
+} 
+p {  
+   font-size: 1.5rem;
+}
